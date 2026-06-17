@@ -32,6 +32,11 @@
     "subject:Rate Sheet",
     "subject:New Loan Activity has occurred",
     "subject:Synced to Notion",
+    "subject:[DRY RUN] Title Agent:",
+    "subject:[ACTION NEEDED] Clarification ready",
+    "subject:- N added (Notion sync bot)",
+    "body:Synced to Notion.",
+    "body:TITLE ORDER AGENT — DRY RUN PREVIEW",
     "sender:Glide-NoReply@acralending.com",
     "sender:No.Reply@emporiumtpo.com",
     "sender:donotreply@afrloancenter.com"
